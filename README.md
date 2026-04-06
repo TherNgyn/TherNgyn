@@ -31,7 +31,7 @@ Tôi là sinh viên năm cuối chuyên ngành **Kỹ thuật Dữ liệu** tạ
   <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/45cdebb5-5c16-431e-837c-859d132b565e" /> 
 
 * 💬 *Data4ESGenius - Data for Action - ESG for Impact*
-
+* Intern Data Analyst tại Sonion Vietnam
 ---
 
 ## 🛠 Tech Stack
