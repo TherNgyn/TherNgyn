@@ -1,5 +1,5 @@
 # 📊 I'm Nguyen Thi Hong Tho (TherNgyn) 👋
-### Data Engineering Student | Aspiring Data Analyst & ML Engineer
+### Data Engineering Student | Data Analyst Intern at Sonion Vietnam 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TherNgyn&label=Profile%20views&color=0e75b6&style=flat" alt="TherNgyn" />
